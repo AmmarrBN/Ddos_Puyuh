@@ -1,0 +1,2 @@
+# Ddos_Puyuh
+Tools Ini asli tools ddos bukan fake!!!! Pembuat Tools Ini Tidak Akan bertanggung jawab Atas Ada yang Akan di lakukan oleh si pengguna Oke Untuk Menggunakan nya Ketik : python Ddos_Si_Puyuh.py -t (link web) -p (port) -m (jam Mulai Serangan) -s (jam selesai Serangan)  Creat By : Randiansyah YouTube : Rendi Noober Facebook : Rendi Saputra Guthub : https://github.com/Rendi-ID  Kunjungi channel saya : Rendi Noober Untuk men support channel saya :) Belajar buat tools Dengan program shell, python Di channel saya:) OK Selamat mencoba :)
